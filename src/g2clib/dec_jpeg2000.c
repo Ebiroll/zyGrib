@@ -1,6 +1,3 @@
-#ifdef USE_JPEG2000
-#undef USE_JPEG2000
-#endif
 #ifndef USE_JPEG2000
 #include <stdio.h>
 #include <stdlib.h>
