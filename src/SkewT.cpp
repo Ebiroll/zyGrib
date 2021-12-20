@@ -1,5 +1,7 @@
 
+#include <QPainterPath>
 #include "SkewT.h"
+
 
 //------------------------------------------------------
 SkewT::SkewT (int W, int H, QWidget *parent) : QWidget (parent)

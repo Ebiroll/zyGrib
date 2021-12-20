@@ -1,5 +1,6 @@
 
 #include "SkewT.h"
+#include <QPainterPath>
 
 //---------------------------------------------------------------	
 SkewTWindow::SkewTWindow (SkewT *skewt)

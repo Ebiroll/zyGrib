@@ -27,6 +27,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include <QFileDialog>
 #include <QMessageBox>
 #include <QComboBox>
+#include <QPainterPath>
 
 #include "MainWindow.h"
 #include "MeteoTable.h"
